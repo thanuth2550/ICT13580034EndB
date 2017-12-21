@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ContentPage
+	xmlns="http://xamarin.com/schemas/2014/forms"
+	xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+	xmlns:local="clr-namespace:ICT13580034EndB"
+	x:Class="ICT13580034EndB.ICT13580034EndBPage"
+    Title="Thanuth Shop">
+    
+	<ContentPage.ToolbarItems>
+        <ToolbarItem
+            Text="New"
+            x:Name="newButton"/>
+    </ContentPage.ToolbarItems>
+    
+</ContentPage>
